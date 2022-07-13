@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Mad_Final_Exam</string>
+    <string name="title_activity_track__location">Map</string>
+    <string name="dropped_pin" />
+</resources>
